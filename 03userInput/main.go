@@ -14,4 +14,5 @@ func main() {
 	// comma ok / err err
 	input , _ := reader.ReadString('\n')
 	fmt.Println("thanks to write " , input)
+	
 }
